@@ -24,7 +24,7 @@
 - CSS/SCSS
 
 
-[Prevue Link](https://vitaliidox.github.io/react_people-table-basics/) <br/>
+[Prevue Link](https://vitaliidox.github.io/game_2048/) <br/>
 [Layout Reference](https://play2048.co/)
 
 ### Instructions:
