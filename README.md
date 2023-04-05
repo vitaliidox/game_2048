@@ -12,6 +12,7 @@ Game Board: The game board is a grid of squares, initially filled with two rando
 Moving Tiles: When the player moves tiles, they must slide to the end of the grid, combining with any matching tiles along the way.
 
 Scoring: The game keeps a tally of the player's points, which will increase as the tiles are combined. The score is displayed on the screen.
+<br />
 End of Game: The game will end if the player fails to make a correct move, i.e. if there are no empty spaces on the grid and no adjacent tiles with the same value.
 <br/>
 
